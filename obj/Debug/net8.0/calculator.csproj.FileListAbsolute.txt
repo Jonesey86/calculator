@@ -1,0 +1,4 @@
+C:\Users\ianro\Desktop\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianro\Desktop\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+C:\Users\ianro\Desktop\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+C:\Users\ianro\Desktop\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
